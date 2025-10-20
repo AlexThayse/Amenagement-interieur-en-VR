@@ -36,7 +36,7 @@ Developed using **Unreal Engine 5** with both **Blueprint** and **C++**, the pro
 
 ## 🎥 Vidéos 
 [![Trailer sur Youtube](https://i9.ytimg.com/vi/1cPDR2-IjhY/mq3.jpg?sqp=COyr2scG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFQgXihlMA8=&rs=AOn4CLCpBUYGlU77SoM4TJDmNKWNBERo8g)](https://youtu.be/1cPDR2-IjhY)
-
+[![Tuto sur Youtube](https://i9.ytimg.com/vi_webp/qZDUTZJy3JU/mq1.webp?sqp=CPCy2scG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBQgEyh_MA8=&rs=AOn4CLB14yRgktbfC0iHGppxJ4s192WtFg)](https://youtu.be/qZDUTZJy3JU)
 
 ---
 
