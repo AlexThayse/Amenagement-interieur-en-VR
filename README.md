@@ -34,8 +34,6 @@ Developed using **Unreal Engine 5** with both **Blueprint** and **C++**, the pro
 
 ---
 
-## Trailer et vidéo reprenant les différentes fonctionnalités
-
 
 ## 👤 Auteurs  
 **Sacha Malray** & **Antoine Patoux** & **Alex Thayse**
